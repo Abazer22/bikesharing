@@ -1,8 +1,11 @@
 # bikesharing
 ## Overview 
 The purpose of this project is to show investors how the bike-sharing model works in NYC in order to demonstrate that running this model in Des Moines is a strong business proposal.
-[link to dashboard](https://public.tableau.com/app/profile/abazar.rahma/viz/Tableau_Challaenge/UserType?publish=yes)
+
 ## The Project Results 
+
+[link to dashboard](https://public.tableau.com/app/profile/abazar.rahma/viz/Tableau_Challaenge/UserType?publish=yes)
+
 #### Checkout Times for Users
 
 ![2](https://user-images.githubusercontent.com/90945875/146986319-2555f37d-967d-4138-98e5-9bad887fb035.PNG)
